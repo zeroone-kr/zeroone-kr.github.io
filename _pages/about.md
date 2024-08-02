@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, everyone! I'm wonil, a graduate student at the Ulsan University. I'm currently a master student researching software security at UNIST's S2Lab. I'm excited about topics related to software fuzzing, sanitizer, IoT firmware fuzzing. 
+Hello, everyone! I'm wonil, a graduate student at the Ulsan University. I'm currently a master student researching software security at UNIST's S2Lab. I'm excited about topics related to software fuzzing, sanitizer, IoT firmware fuzzing.
 
 In my free time, I usually enjoy boxing and weight lifting.
 
