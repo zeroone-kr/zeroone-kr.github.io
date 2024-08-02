@@ -12,21 +12,18 @@ profile:
   more_info: >
     <a href="https://zeroone01.notion.site/Portfolio-4c34c59de3a94e41977d34d0ff5f18cb">More information</a>
 
-
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+Hello, everyone! I'm wonil, a graduate student at the Ulsan University. I'm currently a master student researching software security at UNIST's S2Lab. I'm excited about topics related to software fuzzing, sanitizer, IoT firmware fuzzing. 
 
-Hello, everyone! Nice to meet you all! I'm currently a master's student researching software security at UNIST's S2Lab.
+In my free time, I usually enjoy boxing and weight lifting.
 
-My interests include system security, IoT security, and finding software bugs. For more information about me, please refer to the links under my profile picture or CV tab(not yet).
+For more information about me, please refer to the links under my profile picture or CV tab(not yet).
 
-Thanks, and happy hacking!
-
-
-
+Thanks, and Happy Hacking!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
