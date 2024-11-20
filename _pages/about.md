@@ -22,23 +22,18 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Happy hacking!
+Happy hacking!  
+No Pain, No Gain!  
 
-No Pain, No Gain!
-
-Hi! I am currently a master's student at UNIST S2Lab.
-
+Hi! I am currently a master's student at UNIST S2Lab.  
 My research interests focus on finding vulnerabilities in both closed and open-source software. In particular, I am passionate about areas such as IoT device fuzzing, open-source fuzzing, and static analysis.
 
 In 2023, I completed the BoB 11th course, where I learned about vulnerability analysis for the first time. I continue to work in this field.
 
-In my free time, I enjoy boxing and weightlifting.
+In my free time, I enjoy boxing and weightlifting.  
+My motto is "No Pain, No Gain."  
+Happy hacking! 
 
-My motto is "No Pain, No Gain."
-
-Happy hacking!
-
-<br/>
 <br/>
 
 <!-- #### CERTIFICATES
@@ -52,13 +47,13 @@ Happy hacking!
 
 #### AWARDS
 ---
-- 2023  Grand Prize in the Buulgyeong Cybersecurity Hackathon - Graduate School of Convergence Security, Pusan National University
+- 2023  Grand Prize in the Buulgyeong Cybersecurity Hackathon - Graduate School of Convergence Security, PNU
 - 2023  WhiteHat10 Award - KITRI
-- 2022  Outstanding Paper Award at the Korea Internet of Things Association - Korea Internet of Things Association
-- 2021  Link Industry Cooperation Best Artificial Intelligence Advanced Course Award - LINC Industry Cooperation, Ulsan University
+- 2022  Outstanding Paper Award at the Korea Internet of Things Association - KIOT
+- 2021  Link Industry Cooperation Best Artificial Intelligence Advanced Course Award - LINC Industry Cooperation, UOU
 - 2021  23rd Hacking Camp SINCERE Hacker Award - HackingCamp
-- 2019  Excellence Award in the Training Course on Analysis and Response of Cyber Infringement Accidents - Ulsan Information Industry Promotion Agency
-- 2019  Network Forensics Practical Training Course Excellence Award - Ulsan Information Industry Promotion Agency
+- 2019  Excellence Award in the Training Course on Analysis and Response of Cyber Infringement Accidents - UIPA
+- 2019  Network Forensics Practical Training Course Excellence Award - UIPA
 
 <br/>
 
@@ -84,10 +79,7 @@ Happy hacking!
 
 #### FOUND VULNS
 ---
-- CVE-2023-46256: Heap Buffer Overflow in Open Source PX4 Drone
-    - Up to the maximum value of an `unsigned int`, bytes sized data can be written to the heap memory area through UART port.
-    - [https://github.com/PX4/PX4-Autopilot/pull/22202](https://github.com/PX4/PX4-Autopilot/pull/22202)
-    - [https://nvd.nist.gov/vuln/detail/CVE-2023-46256](https://nvd.nist.gov/vuln/detail/CVE-2023-46256)
+- [CVE-2023-46256: Heap Buffer Overflow in Open Source PX4 Drone](https://nvd.nist.gov/vuln/detail/CVE-2023-46256)
 - KVE-2022-1969: IoT RCE by webshell with root permission
 - KVE-2022-2162: BLE Replay Attack
 - KVE-2022-2328: IoT DoS Attack By BOF
