@@ -10,7 +10,7 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="https://s2-lab.github.io/index.html">UNIST S2Lab</a> Master student</p>
+    <p>UNIST CSE master's student</p>
     <p><a href="https://zeroone01.notion.site/Portfolio-eng-4c34c59de3a94e41977d34d0ff5f18cb">Detailed CV</a></p>
 
 # <p>123 your address street</p>
@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 Happy hacking!  
 No Pain, No Gain!  
 
-Hi! I am currently a master's student at UNIST S2Lab.  
+Hi! I am currently getting a master's degree at UNIST.
 My research interests focus on finding vulnerabilities in both closed and open-source software. In particular, I am passionate about areas such as IoT device fuzzing, open-source fuzzing, and static analysis.
 
 In 2023, I completed the BoB 11th course, where I learned about vulnerability analysis for the first time. I continue to work in this field.
