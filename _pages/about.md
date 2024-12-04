@@ -70,10 +70,11 @@ Happy hacking!
 
 #### CTF 
 ---
-- 2024 M0lECON CTF ( team )
-- 2024 UNIST CSE web security CTF 1th / 27th  ( individual )
-- 2023 Dreamhack Christmas CTF 8th / 147th (team, 3 people)
-- 2021 Hacking Camp CTF 4th ( team, 4 people )
+- 2024 Ulsan Hackig competition CTF 4th / 23th ( Team: yummyshell, General Division Winner )
+- 2024 M0lECON CTF ( Team: yummyshell )
+- 2024 UNIST CSE web security CTF 1st / 27th  ( Individual )
+- 2023 Dreamhack Christmas CTF 8th / 147th ( Team: yummyshell, i.e., the former name OASIS, 3 people )
+- 2021 Hacking Camp CTF 4th ( Team, 4 people )
 
 <br/>
 
