@@ -47,13 +47,14 @@ Happy hacking!
 
 #### AWARDS
 ---
-- 2023  Grand Prize in the Buulgyeong Cybersecurity Hackathon - Graduate School of Convergence Security, PNU
-- 2023  WhiteHat10 Award - KITRI
-- 2022  Outstanding Paper Award at the Korea Internet of Things Association - KIOT
-- 2021  Link Industry Cooperation Best Artificial Intelligence Advanced Course Award - LINC Industry Cooperation, UOU
-- 2021  23rd Hacking Camp SINCERE Hacker Award - HackingCamp
-- 2019  Excellence Award in the Training Course on Analysis and Response of Cyber Infringement Accidents - UIPA
-- 2019  Network Forensics Practical Training Course Excellence Award - UIPA
+- 2024 Grand Prize Winner (General Division) of the Ulsan Hacking CTF Competition - Ulsan Metropolitan Police Agency
+- 2023 Grand Prize in the Buulgyeong Cybersecurity Hackathon - Graduate School of Convergence Security, PNU
+- 2023 WhiteHat10 Award - KITRI
+- 2022 Outstanding Paper Award at the Korea Internet of Things Association - KIOT
+- 2021 Link Industry Cooperation Best Artificial Intelligence Advanced Course Award - LINC Industry Cooperation, UOU
+- 2021 23rd Hacking Camp SINCERE Hacker Award - HackingCamp
+- 2019 Excellence Award in the Training Course on Analysis and Response of Cyber Infringement Accidents - UIPA
+- 2019 Network Forensics Practical Training Course Excellence Award - UIPA
 
 <br/>
 
