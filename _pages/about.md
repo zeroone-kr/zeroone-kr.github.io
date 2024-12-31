@@ -21,7 +21,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research interests focus on finding vulnerabilities in both closed and open-source software.  
+My research interests focus on finding vulnerabilities  
+in both closed and open-source software.  
 In my free time, I enjoy boxing and weightlifting.  
 My motto is "No Pain, No Gain."  
 Happy hacking!  
@@ -30,6 +31,12 @@ Happy hacking!
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 <!-- #### CERTIFICATES
 ---
