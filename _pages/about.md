@@ -21,8 +21,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research interests focus on finding vulnerabilities  
-in both closed and open-source software.  
+<br/>
+<br/>
+
+My research interests focus on finding vulnerabilities in both closed and open-source software.  
 In my free time, I enjoy boxing and weightlifting.  
 My motto is "No Pain, No Gain."  
 Happy hacking!  
@@ -90,8 +92,8 @@ Happy hacking!
 - KVE-2022-2328: IoT DoS Attack By BOF
 - KVE-2022-2329: IoT DoS Attack By BOF
 
-*CVE = Common Vulnerabilites and Exposures
-*KVE = Korean Vulnerabilites and Exposures ( The company name and device inforamation cannot be specified ) <br/>
+*CVE = Common Vulnerabilites and Exposures  
+*KVE = Korean Vulnerabilites and Exposures ( The company name and device inforamation cannot be specified )  
 
 
 
