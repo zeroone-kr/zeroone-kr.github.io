@@ -22,8 +22,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <br/>
-<br/>
-
 My research interests focus on finding vulnerabilities in both closed and open-source software.  
 In my free time, I enjoy boxing and weightlifting.  
 My motto is "No Pain, No Gain."  
