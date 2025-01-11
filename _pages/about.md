@@ -22,8 +22,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <br/>
-My research interests focus on finding vulnerabilities in both closed and open-source software.  
-In my free time, I enjoy boxing and weightlifting.  
+Hi, My name is Wonil Jang. My research interests focus on finding vulnerabilities in both closed and open-source software. In my free time, I enjoy boxing and weightlifting.  
 My motto is "No Pain, No Gain."  
 Happy hacking!  
 
@@ -52,7 +51,7 @@ Happy hacking!
 ---
 - 2024 Grand Prize Winner (General Division) of the Ulsan Hacking CTF Competition - Ulsan Metropolitan Police Agency
 - 2023 Grand Prize in the Buulgyeong Cybersecurity Hackathon - Graduate School of Convergence Security, PNU
-- 2023 WhiteHat10 Award - KITRI
+- 2023 Best of the Best 11th WhiteHat10 Award - KITRI
 - 2022 Outstanding Paper Award at the Korea Internet of Things Association - KIOT
 - 2021 Link Industry Cooperation Best Artificial Intelligence Advanced Course Award - LINC Industry Cooperation, UOU
 - 2021 23rd Hacking Camp SINCERE Hacker Award - HackingCamp
