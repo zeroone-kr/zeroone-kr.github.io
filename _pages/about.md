@@ -46,10 +46,15 @@ Happy hacking!
 - Accident Response Specialist level 2
 - Linux master level 2
 - Computer literacy level 1 -->
+#### PUBLICATIONS
+---
+- [CMASan: Custom Memory Allocator-aware Address Sanitizer](https://yonghwi-kwon.github.io/data/cmasan_sp25.pdf)
+
+<br/>
 
 #### AWARDS
 ---
-- 2024 Grand Prize Winner (General Division) of the Ulsan Hacking CTF Competition - Ulsan Metropolitan Police Agency
+- 2024 Grand Prize Winner (General Division) of the Ulsan Hacking CTF Competition - Ulsan Police Agency
 - 2023 Grand Prize in the Buulgyeong Cybersecurity Hackathon - Graduate School of Convergence Security, PNU
 - 2023 Best of the Best 11th WhiteHat10 Award - KITRI
 - 2022 Outstanding Paper Award at the Korea Internet of Things Association - KIOT
@@ -60,7 +65,7 @@ Happy hacking!
 
 <br/>
 
-#### Special Activities
+#### SPECIAL ACTIVITIES
 ---
 - 2024 Attended CCS Conference 
 - 2022~2023 Completed the Best of the Best 11th
@@ -73,7 +78,7 @@ Happy hacking!
 
 #### CTF 
 ---
-- 2024 Ulsan Hackig competition CTF 4th / 23th ( Team: yummyshell, General Division Winner )
+- 2024 Ulsan Hacking competition CTF 4th / 23th ( Team: yummyshell, General Division Winner )
 - 2024 M0lECON CTF ( Team: yummyshell )
 - 2024 UNIST CSE web security CTF 1st / 27th  ( Individual )
 - 2023 Dreamhack Christmas CTF 8th / 147th ( Team: yummyshell, i.e., the former name OASIS, 3 people )
@@ -83,6 +88,8 @@ Happy hacking!
 
 #### FOUND VULNS
 ---
+- CVE-2023-7152, CVE-2023-7158, CVE-2024-8946, CVE-2024-8947, CVE-2024-8948 in MicroPython
+- CVE-2023-7104 in SQLite3
 - [CVE-2023-46256: Heap Buffer Overflow in Open Source PX4 Drone](https://nvd.nist.gov/vuln/detail/CVE-2023-46256)
 - KVE-2022-1969: IoT RCE by webshell with root permission
 - KVE-2022-2162: BLE Replay Attack
