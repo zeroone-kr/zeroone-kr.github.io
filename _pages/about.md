@@ -22,8 +22,9 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <br/>
-Hi, My name is Wonil Jang. My research interests focus on finding vulnerabilities in both closed and open-source software. In my free time, I enjoy boxing and weightlifting.  
-My motto is "No Pain, No Gain."  
+Hi, My name is Wonil Jang. My research interests focus on finding vulnerabilities in both closed and open-source software.  
+Especially, I am interested in fuzzing and hacking moving devices.
+My motto is "No Pain, No Gain."
 Happy hacking!  
 
 
@@ -48,7 +49,10 @@ Happy hacking!
 - Computer literacy level 1 -->
 #### PUBLICATIONS
 ---
-- [CMASan: Custom Memory Allocator-aware Address Sanitizer](https://yonghwi-kwon.github.io/data/cmasan_sp25.pdf)
+- 2025 CMASan: Custom Memory Allocator-aware Address Sanitizer  
+Junwha Hong, ***Wonil Jang***, Mijung Kim, Lei Yu, Yonghwi Kwon, and Yuseok Jeon  
+In IEEE Symposium on Security and Privacy (S&P), 2025.
+
 
 <br/>
 
