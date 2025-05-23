@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 <br/>
 Hi, My name is Wonil Jang. My research interests focus on finding vulnerabilities in both closed and open-source software.  
-Especially, I am interested in fuzzing and hacking moving devices.
+Especially, I am interested in fuzzing and hacking moving devices (e.g., cars, drones, ships, etc.).
 My motto is "No Pain, No Gain."
 Happy hacking!  
 
