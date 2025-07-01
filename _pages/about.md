@@ -47,6 +47,16 @@ Happy hacking!
 - Accident Response Specialist level 2
 - Linux master level 2
 - Computer literacy level 1 -->
+
+
+
+#### Advisor History
+---
+- 2025.03.03 ~ now: Joined CSSL and working with Prof. Hyungon Moon at UNIST.
+- 2024.02.26 ~ 2025.03.02: Joined S2Lab at UNIST. Prof. Yuseok Jeon moved to Korea University at the end of 2024.  
+
+<br/>
+
 #### PUBLICATIONS
 ---
 - 2025 CMASan: Custom Memory Allocator-aware Address Sanitizer  
