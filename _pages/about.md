@@ -11,9 +11,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>UNIST CSE master's student</p>
-    <p><a href="https://zeroone01.notion.site/Portfolio-eng-4c34c59de3a94e41977d34d0ff5f18cb">CV[eng]</a></p>
-    <p><a href="https://zeroone01.notion.site/Portfolio-kor-b90ff8b76bc840cbb61e0c43c2548349">CV[kor]</a></p>
-
 
 # <p>123 your address street</p>
 # <p>Your City, State 12345</p>
@@ -61,7 +58,7 @@ Happy hacking!
 
 #### PUBLICATIONS
 ---
-- 2025 CMASan: Custom Memory Allocator-aware Address Sanitizer  
+- 2025 [CMASan: Custom Memory Allocator-aware Address Sanitizer](https://ieeexplore.ieee.org/document/11023389)  
 Junwha Hong, ***Wonil Jang***, Mijung Kim, Lei Yu, Yonghwi Kwon, and Yuseok Jeon  
 In IEEE Symposium on Security and Privacy (S&P), 2025.
 
