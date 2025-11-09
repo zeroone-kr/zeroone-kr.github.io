@@ -10,7 +10,7 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>UNIST CSE master student in (CSSL)[https://cssl.unist.ac.kr/]</p>
+    <p>Master's student in [CSSL](https://cssl.unist.ac.kr/), UNIST CSE</p>
 
 # <p>123 your address street</p>
 # <p>Your City, State 12345</p>
