@@ -10,7 +10,7 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Master's student in [CSSL](https://cssl.unist.ac.kr/), UNIST CSE</p>
+    <p>Master's student in CSSL, UNIST CSE</p>
 
 # <p>123 your address street</p>
 # <p>Your City, State 12345</p>
@@ -51,8 +51,8 @@ Happy hacking!
 
 #### ADVISOR HISTORY
 ---
-- 2025.03.03 ~ now: Joined CSSL and working with Prof. Hyungon Moon at UNIST.
-- 2024.02.26 ~ 2025.03.02: Joined S2Lab at UNIST. Prof. Yuseok Jeon moved to Korea University at the end of 2024.  
+- 2025.03.03 ~ now: Joined [CSSL](https://cssl.unist.ac.kr/) and working with Prof. Hyungon Moon at UNIST.
+- 2024.02.26 ~ 2025.03.02: Joined [S2Lab](https://s2-lab.github.io/index.html) at UNIST. Prof. Yuseok Jeon moved to Korea University at the end of 2024.  
 
 <br/>
 
