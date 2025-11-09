@@ -11,7 +11,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>UNIST CSE master's student</p>
-    <p><a href="https://zeroone01.notion.site/Portfolio-eng-4c34c59de3a94e41977d34d0ff5f18cb">Detailed CV</a></p>
+    <p><a href="https://zeroone01.notion.site/Portfolio-eng-4c34c59de3a94e41977d34d0ff5f18cb">CV[eng]</a></p>
+    <p><a href="https://zeroone01.notion.site/Portfolio-kor-b90ff8b76bc840cbb61e0c43c2548349">CV[kor]</a></p>
+
 
 # <p>123 your address street</p>
 # <p>Your City, State 12345</p>
@@ -92,6 +94,7 @@ In IEEE Symposium on Security and Privacy (S&P), 2025.
 
 #### CTF 
 ---
+- 2025 Busan Hacksium CTF Advanced to the Finals ( Team: 현실도가끔은거짓말을한다 )
 - 2024 Ulsan Hacking competition CTF 4th / 23th ( Team: yummyshell, General Division Winner )
 - 2024 M0lECON CTF ( Team: yummyshell )
 - 2024 UNIST CSE web security CTF 1st / 27th  ( Individual )
