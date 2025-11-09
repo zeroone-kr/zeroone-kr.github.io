@@ -10,7 +10,7 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>UNIST CSE master's student</p>
+    <p>UNIST CSE master student in (CSSL)[https://cssl.unist.ac.kr/]</p>
 
 # <p>123 your address street</p>
 # <p>Your City, State 12345</p>
@@ -69,9 +69,9 @@ In IEEE Symposium on Security and Privacy (S&P), 2025.
 ---
 - 2024 Grand Prize Winner (General Division) of the Ulsan Hacking CTF Competition - Ulsan Police Agency
 - 2023 Grand Prize in the Buulgyeong Cybersecurity Hackathon - Graduate School of Convergence Security, PNU
-- 2023 Best of the Best 11th WhiteHat10 Award - KITRI
+- 2023 [Best of the Best 11th WhiteHat10 Award](https://www.ilyosisa.co.kr/mobile/article.html?no=238855) - KITRI
 - 2022 Outstanding Paper Award at the Korea Internet of Things Association - KIOT
-- 2021 Link Industry Cooperation Best Artificial Intelligence Advanced Course Award - LINC Industry Cooperation, UOU
+- 2021 [Link Industry Cooperation Best Artificial Intelligence Advanced Course Award](https://www.ksilbo.co.kr/news/articleView.html?idxno=909233) - LINC Industry Cooperation, UOU
 - 2021 23rd Hacking Camp SINCERE Hacker Award - HackingCamp
 - 2019 Excellence Award in the Training Course on Analysis and Response of Cyber Infringement Accidents - UIPA
 - 2019 Network Forensics Practical Training Course Excellence Award - UIPA
