@@ -102,6 +102,7 @@ In IEEE Symposium on Security and Privacy (S&P), 2025.
 
 #### FOUND VULNS
 ---
+- [Format String Bug in ROS urdfdom](https://github.com/ros/urdfdom/pull/243)
 - CVE-2023-7152, CVE-2023-7158, CVE-2024-8946, CVE-2024-8947, CVE-2024-8948 in MicroPython
 - CVE-2023-7104 in SQLite3
 - [CVE-2023-46256: Heap Buffer Overflow in Open Source PX4 Drone](https://nvd.nist.gov/vuln/detail/CVE-2023-46256)
