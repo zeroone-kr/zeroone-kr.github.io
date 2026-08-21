@@ -28,12 +28,6 @@ Happy hacking!
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <!-- #### CERTIFICATES
 ---
@@ -44,7 +38,13 @@ Happy hacking!
 - Linux master level 2
 - Computer literacy level 1 -->
 
+#### PUBLICATIONS
+---
+- 2025 [CMASan: Custom Memory Allocator-aware Address Sanitizer](https://ieeexplore.ieee.org/document/11023389)  
+Junwha Hong, ***Wonil Jang***, Mijung Kim, Lei Yu, Yonghwi Kwon, and Yuseok Jeon  
+In IEEE Symposium on Security and Privacy (S&P), 2025.
 
+<br/>
 
 #### ADVISOR HISTORY
 ---
@@ -53,14 +53,9 @@ Happy hacking!
 
 <br/>
 
-#### PUBLICATIONS
----
-- 2025 [CMASan: Custom Memory Allocator-aware Address Sanitizer](https://ieeexplore.ieee.org/document/11023389)  
-Junwha Hong, ***Wonil Jang***, Mijung Kim, Lei Yu, Yonghwi Kwon, and Yuseok Jeon  
-In IEEE Symposium on Security and Privacy (S&P), 2025.
+<!--#### EXPERIENCE
 
-
-<br/>
+<br/>-->
 
 #### AWARDS
 ---
@@ -111,7 +106,12 @@ In IEEE Symposium on Security and Privacy (S&P), 2025.
 *CVE = Common Vulnerabilites and Exposures  
 *KVE = Korean Vulnerabilites and Exposures ( The company name and device inforamation cannot be specified )  
 
+<br/>
 
+#### CERTIFICATIONS
+---
+- Engineer Information Processing (정보처리기사) — National Technical Qualification, South Korea
+- Certified Privacy Protection General (CPPG, 개인정보관리사) — Private Qualification, South Korea
 
 <br/>
 <br/>
