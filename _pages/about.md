@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <br/>
-Hello, My name is Wonil Jang. My advisor is Prof. Hyungon Moon. My research centers on identifying exploitable vulnerabilities that could threaten user safety or cause significant organizational impact, with the ultimate goal of contributing to a safer and more secure society.
+Hello, My name is Wonil Jang. My research centers on identifying exploitable vulnerabilities that could threaten user safety or cause significant organizational impact, with the ultimate goal of contributing to a safer and more secure society.
 
 
 Happy hacking!  
