@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <br/>
-Hello, My name is Wonil Jang. My research centers on identifying exploitable vulnerabilities that could threaten user safety or cause significant organizational impact, with the ultimate goal of contributing to a safer and more secure society.
+Hello, My name is Wonil Jang. My research centers on identifying exploitable vulnerabilities, with the ultimate goal of contributing to a safer and more secure society.
 
 
 Happy hacking!  
@@ -48,7 +48,7 @@ Happy hacking!
 
 #### ADVISOR HISTORY
 ---
-- 2025.03.03 ~ now: Joined [CSSL](https://cssl.unist.ac.kr/) and working with Prof. Hyungon Moon at UNIST.
+- 2025.03.03 ~ 2026.02.22: Joined [CSSL](https://cssl.unist.ac.kr/) and worked with Prof. Hyungon Moon at UNIST.
 - 2024.02.26 ~ 2025.03.02: Joined [S2Lab](https://s2-lab.github.io/index.html) at UNIST. Prof. Yuseok Jeon moved to Korea University at the end of 2024.  
 
 <br/>
