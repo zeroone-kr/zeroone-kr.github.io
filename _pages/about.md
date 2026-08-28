@@ -108,15 +108,16 @@ In IEEE Symposium on Security and Privacy (S&P), 2025.
 
 <br/>
 
+
+<!--
 #### CERTIFICATIONS
 ---
-- Engineer Information Processing (정보처리기사) — National Technical Qualification, South Korea
-- Certified Privacy Protection General (CPPG, 개인정보관리사) — Private Qualification, South Korea
+- 정보보안기사, CPPG, 정보처리기사
 
 <br/>
 <br/>
 <br/>
-
+-->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
